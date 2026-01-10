@@ -1,0 +1,10 @@
+{
+  "name": "Developer",
+  "version": "1.0.0",
+  "description": "A developer-focused theme for RustPress CMS",
+  "author": "RustPress Team",
+  "license": "MIT",
+  "homepage": "https://github.com/rustpress-net/rustpress-theme-developer-developer",
+  "keywords": ["developer", "code", "portfolio", "blog"],
+  "rustpress_version": ">=1.0.0"
+}
